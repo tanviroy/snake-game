@@ -5,7 +5,7 @@ The Snake Game is a popular game which has a special place in my heart ever sinc
 
 ## Setup
 The snake game works well on Python 2.7 and requires Pygame to be installed. 
-Additionally, sound effect files (.wav) can be downloaded from '[sound effects.zip](sound effects.zip)' if running '[snakey.py](snakey.py)'.
+Additionally, sound effect files (.wav) can be downloaded from '[sound-effects.zip](sound-effects.zip)' if running '[snakey.py](snakey.py)'.
 
 ## Key Learnings
 * one of my biggest challenges was getting the movement of the snake right
