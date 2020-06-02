@@ -1,4 +1,5 @@
 # Snake Game 🐍🎮
+#### Date of completion: 30th March 2020
 
 ## Description
 The Snake Game is an iconic game that has a special place in my heart ever since I had first encountered it on a Nokia 3100. I was interested in building a simple game for a long time and so here's my attempt at making the famous snake game. I wanted to keep it as simple and close to the original game as possible. This is also my first CS project ever. I have a few months of experience with Python and no prior experience with Pygame. It took me a little over a day to code the entire thing. 
